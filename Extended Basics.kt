@@ -1,6 +1,6 @@
 /* Android Development Course */
 fun main() {
-    print("Happy Birthday!")
-    print("Aash Gates")
-    print("You are 24!")
+    print("Happy Birthday!\n")
+    print("Aash Gates\n")
+    print("You are 24!\n")
 }
