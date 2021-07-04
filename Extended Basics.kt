@@ -1,2 +1,5 @@
 /* Android Development Course */
-fun main() {}
+fun main() {
+    print("Happy Birthday!")
+    print("A")
+}
