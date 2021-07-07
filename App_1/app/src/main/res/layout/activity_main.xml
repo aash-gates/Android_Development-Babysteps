@@ -24,8 +24,8 @@
         android:layout_height="60dp"
         android:text="TextView"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
-        tools:layout_editor_absoluteX="41dp"
-        tools:layout_editor_absoluteY="153dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="32dp"
         tools:text="Happy Birthday" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
