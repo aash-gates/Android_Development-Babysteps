@@ -10,7 +10,9 @@
         android:layout_width="187dp"
         android:layout_height="60dp"
         android:text="Aash Gates"
+        android:textAlignment="textEnd"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@color/teal_200"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -22,10 +24,15 @@
         android:id="@+id/textView"
         android:layout_width="299dp"
         android:layout_height="58dp"
+        android:fontFamily="sans-serif-medium"
+        android:lineSpacingExtra="12sp"
         android:text="Happy Birthday"
+        android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="32dp"
+        android:textColor="#ED0808"
+        android:typeface="normal"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="16dp"
         tools:text="Happy Birthday" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
