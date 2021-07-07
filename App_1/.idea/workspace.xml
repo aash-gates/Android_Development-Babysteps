@@ -2,7 +2,10 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <device id="pixel" />
+        <pickBest>false</pickBest>
+      </config>
     </shared>
   </component>
   <component name="AutoImportSettings">
@@ -50,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.recentlyUsedThemes" value="Theme.MaterialComponents.DayNight.Dialog.Alert" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
