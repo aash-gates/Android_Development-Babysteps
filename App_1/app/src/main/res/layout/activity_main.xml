@@ -22,9 +22,10 @@
         android:id="@+id/textView"
         android:layout_width="299dp"
         android:layout_height="58dp"
-        android:text="TextView"
+        android:text="Happy Birthday"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="32dp" />
+        tools:layout_editor_absoluteY="32dp"
+        tools:text="Happy Birthday" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
