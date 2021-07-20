@@ -1,3 +1,3 @@
-fun main(Array<String){
+fun main(){
     println("Hello Aash Gates")
 } 
